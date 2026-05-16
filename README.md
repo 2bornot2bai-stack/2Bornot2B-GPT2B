@@ -48,7 +48,7 @@ La web no promete resultados garantizados. Está planteada como una base profesi
 - Animaciones suaves con `IntersectionObserver`.
 - Fondo tecnológico con canvas ligero.
 - Formulario Formspree en HTML básico.
-- Botón flotante de WhatsApp.
+- Botón flotante de WhatsApp en verde, sin número visible.
 - Preparado para GitHub Pages.
 - Preparado para dominio personalizado.
 
@@ -78,18 +78,14 @@ origen = Web GitHub Pages · 2B OR NOT 2B AI Systems
 
 Antes de hacer campañas o tratar datos de forma intensiva, revisar textos legales, privacidad y cookies con un profesional.
 
-## WhatsApp
+## WhatsApp y teléfono
 
-Enlace configurado:
+El acceso a WhatsApp está configurado como botón verde, sin mostrar el número en la interfaz.
 
-```txt
-https://wa.me/34648606079
-```
-
-Teléfono visible:
+Teléfono visible de contacto:
 
 ```txt
-648 606 079
+91 242 6847
 ```
 
 ## Publicación en GitHub Pages
@@ -202,7 +198,7 @@ En WordPress convendría convertirla en:
 
 - [ ] CTA principal visible.
 - [ ] Diagnóstico inicial aparece como puerta de entrada.
-- [ ] WhatsApp flotante funciona.
+- [ ] WhatsApp verde funciona y no muestra el número.
 - [ ] Email visible.
 - [ ] Mensaje sin promesas exageradas.
 
